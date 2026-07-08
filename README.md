@@ -263,37 +263,9 @@ task-based development.
 
 ---
 
-## 🟣 GitHub Trophies
 
-<div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=MANISHA-DUDDU&theme=discord&no-frame=true&row=1&column=6" width="100%"/>
 
-</div>
-
----
-
-## 🟣 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MANISHA-DUDDU&theme=react-dark&hide_border=true&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C9D1D9" width="100%"/>
-
-</div>
-
----
-
-## 🟣 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/MANISHA-DUDDU/MANISHA-DUDDU/output/github-contribution-grid-snake.svg" width="100%"/>
-
-<sub>*Requires the <a href="https://github.com/Platane/snk">Platane/snk</a> GitHub Action configured on your profile repo to generate this file.*</sub>
-
-</div>
-
----
 
 ## 🟣 Current Focus
 

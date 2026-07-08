@@ -30,7 +30,7 @@
 
 ---
 
-## 🟣 About Me
+## About Me
 
 ```yaml
 name: "Manisha Duddu"
@@ -63,7 +63,7 @@ Kodbud**, engineering console-based systems, multithreaded applications, and Swi
 
 ---
 
-## 🟣 Tech Stack
+## Tech Stack
 
 **Languages**
 
@@ -89,7 +89,7 @@ Kodbud**, engineering console-based systems, multithreaded applications, and Swi
 
 ---
 
-## 🟣 AI / ML Expertise
+## AI / ML Expertise
 
 <div align="center">
 
@@ -105,7 +105,7 @@ Kodbud**, engineering console-based systems, multithreaded applications, and Swi
 
 ---
 
-## 🟣 Featured Projects
+## Featured Projects
 
 <details>
 <summary><b>🏥 Intelligent Hospital Information Assistant (RAG + LLM)</b></summary>
@@ -171,7 +171,7 @@ Login System · Library Manager · Multithreaded Digital Clock · Swing-based No
 
 ---
 
-## 🟣 Experience
+## Experience
 
 **Java Programming Intern** · Kodbud
 `2025 – Present`
@@ -188,7 +188,7 @@ task-based development.
 
 ---
 
-## 🟣 Achievements
+## Achievements
 
 <div align="center">
 
@@ -204,7 +204,7 @@ task-based development.
 
 ---
 
-## 🟣 Certifications
+## Certifications
 
 **Oracle**
 
@@ -238,7 +238,7 @@ task-based development.
 
 ---
 
-## 🟣 Coding Profiles
+## Coding Profiles
 
 <div align="center">
 
@@ -250,7 +250,7 @@ task-based development.
 
 ---
 
-## 🟣 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
@@ -267,7 +267,7 @@ task-based development.
 
 
 
-## 🟣 Current Focus
+## Current Focus
 
 ```yaml
 learning:
@@ -289,7 +289,7 @@ open_to:
 
 ---
 
-## 🟣 Connect With Me
+## Connect With Me
 
 <div align="center">
 

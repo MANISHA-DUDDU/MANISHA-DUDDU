@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Manisha%20Duddu&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20RAG%20%26%20LLM%20Systems&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Final-Year+IT+Student+%40+MREC+Women;Building+RAG+%2B+LLM-powered+Systems;Java+Developer+%40+Kodbud;Turning+Ideas+Into+Intelligent+Software" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Final-Year+IT+Student+%40+MRECW;Building+RAG+%2B+LLM-powered+Systems;Java+Developer+%40+Kodbud;Turning+Ideas+Into+Intelligent+Software" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -205,9 +205,6 @@ task-based development.
 ---
 
 ## 🟣 Certifications
-
-**AWS**
-> *Add AWS certifications once completed*
 
 **Oracle**
 
